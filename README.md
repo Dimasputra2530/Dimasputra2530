@@ -1,17 +1,107 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dimas Putra
-====================================================================================================================================
+<h1 align="center">Hi 👋, I'm Dimas Putra Nugroho</h1>
 
-Data Science & Machine Learning Enthusiast
-------------------------------------------
+<h3 align="center">
+Data Science • Machine Learning • Data Analytics
+</h3>
 
-Information Systems student focused on Data Science, Machine Learning, and Data Analytics. Experienced in building data-driven projects, anomaly detection systems, dashboards, and web applications using Python, SQL, FastAPI, and modern data technologies.
+<p align="center">
+  <a href="https://github.com/Dimasputra2530">
+    <img src="https://komarev.com/ghpvc/?username=Dimasputra2530&label=Profile%20Views&style=flat" />
+  </a>
+</p>
 
-* 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [dimasputranugroho25@gmail.com](mailto:dimasputranugroho25@gmail.com)
-* 🧠  I'm currently learning MLOps, Docker, FastAPI, Advanced Machine Learning, and Data Engineering
-* 👥  I'm looking to collaborate on Data Science, Machine Learning, AI, Data Analytics, and Open Source Projects
-* 💬  Ask me about Always interested in turning data into useful insights and real-world solutions.
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Data Science, Machine Learning, and Network Anomaly Detection**
+- 👯 I’m looking to collaborate on **AI, Machine Learning, Data Analytics, and Open Source Projects**
+- 🌱 I’m currently learning **MLOps, Docker, FastAPI, Data Engineering, and Advanced Machine Learning**
+- 💬 Ask me about **Python, SQL, Machine Learning, Data Analytics, and FastAPI**
+- ⚡ I enjoy turning raw data into useful insights and real-world applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
+</p>
+
+### Machine Learning & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
+</p>
+
+`Pandas` • `NumPy` • `Matplotlib` • `Scikit-Learn` • `Machine Learning` • `Data Analytics`
+
+### Backend & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,laravel,react,html,css,js" />
+</p>
+
+### Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Network Monitoring & Anomaly Detection
+Machine Learning based network monitoring system using **Isolation Forest**, ETL Pipeline, FastAPI, MySQL, and interactive dashboards.
+
+### 🗺️ Tourism Recommendation System
+Recommendation system for tourism destinations using **Machine Learning, clustering, recommendation algorithms, FastAPI, and React**.
+
+### 📊 Network Operations Dashboard
+Interactive dashboard for monitoring and analyzing operational data using data analytics and visualization.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dimasputra2530&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimasputra2530&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimasputra2530&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dimasputra2530&theme=flat&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
+
+<a href="https://www.linkedin.com/in/dimas-putra-nugroho-188394250/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://github.com/Dimasputra2530">
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>“Turning data into insights, and insights into solutions.”</i>
 </p>
